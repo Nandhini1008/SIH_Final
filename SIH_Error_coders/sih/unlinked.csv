@@ -1,0 +1,17 @@
+Route_Number,crew_id,Route,Start_Time,End_Time,Next_Route
+4,C7X8Y9,"Dwarka Sector 21, Dwarka Sector 6, Dwarka Sector 12, Dwarka Sector 16, Dwarka Sector 25",6:00,9:00,"Route 5 (Start: Dwarka Sector 25)"
+5,C7X8Y9,"Dwarka Sector 25, Noida Sector 15, Noida Sector 18, Noida Sector 27, Noida Sector 34",9:00,12:00,"Route 6 (Start: Noida Sector 34)"
+6,C7X8Y9,"Noida Sector 34, Kashmere Gate, Mori Gate, Delhi University, Kamla Nagar, Sarai Rohilla",12:00,15:00,"Route 7 (Start: Sarai Rohilla)"
+7,C7X8Y9,"Sarai Rohilla, Karol Bagh, Paharganj, Connaught Place, Rajiv Chowk, Dwarka Sector 21",15:00,18:00,-
+8,D1E2F3,"Sector 5, Sector 8, Sector 10, Sector 12, Sector 15",6:00,9:00,"Route 9 (Start: Sector 15)"
+9,D1E2F3,"Sector 15, Sector 20, Sector 25, Sector 30, Sector 35",9:00,12:00,"Route 10 (Start: Sector 35)"
+10,D1E2F3,"Sector 35, Central Park, Downtown, Old City, Riverside",12:00,15:00,"Route 11 (Start: Riverside)"
+11,D1E2F3,"Riverside, South End, Westside, Eastside, Sector 5",15:00,18:00,-
+12,E4F5G6,"Main Square, North Avenue, Central Park, South Street, East End",6:00,9:00,"Route 13 (Start: East End)"
+13,E4F5G6,"East End, Downtown, Old Town, Riverfront, City Hall",9:00,12:00,"Route 14 (Start: City Hall)"
+14,E4F5G6,"City Hall, West Side, Industrial Zone, Green Park, North Avenue",12:00,15:00,"Route 15 (Start: North Avenue)"
+15,E4F5G6,"North Avenue, Main Square, Main Square",15:00,18:00,-
+16,F7G8H9,"Green Park, Riverwalk, Downtown, Main Street, Westside",6:00,9:00,"Route 17 (Start: Westside)"
+17,F7G8H9,"Westside, North Gate, City Center, Old District, South End",9:00,12:00,"Route 18 (Start: South End)"
+18,F7G8H9,"South End, Central Plaza, East Gate, Lakeview, North Gate",12:00,15:00,"Route 19 (Start: North Gate)"
+19,F7G8H9,"North Gate, Green Park, Green Park",15:00,18:00,-
